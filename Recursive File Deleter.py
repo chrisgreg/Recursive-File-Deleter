@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+#Recursive File Deleter
+#Author: Chris Gregori
+#Date: 12/02/13
+
 import os
 import sys
 import time
